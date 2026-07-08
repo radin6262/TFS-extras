@@ -1,9 +1,24 @@
 # TFS extras
 
-## Setup
-
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+- Hey There
+- This Readme isn't complete yet
+- but fun fact:
+- if you want sweeping attacks on your custom weapon on 26.2 and don't know how
+- just put a file here
+<pre>
+src/main/resources/
+└── data/
+    └── minecraft/
+        └── tags/
+            └── item/
+                └── swords.json
+</pre>
+- also the insides of that file shall be
+<pre>
+{
+  "replace": false,
+  "values": [
+    "<modid>:<swordname>"
+  ]
+}
+</pre>
