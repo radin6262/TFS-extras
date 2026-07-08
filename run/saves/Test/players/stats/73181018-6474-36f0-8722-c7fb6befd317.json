@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 138,
+      "minecraft:time_since_rest": 564,
+      "minecraft:walk_one_cm": 3301,
+      "minecraft:total_world_time": 1716,
+      "minecraft:leave_game": 1,
+      "minecraft:crouch_one_cm": 282,
+      "minecraft:sneak_time": 81,
+      "minecraft:play_time": 564,
+      "minecraft:jump": 7,
+      "minecraft:time_since_death": 564
+    },
+    "minecraft:used": {
+      "tfsextras:mob_pusher_fan": 3
+    }
+  },
+  "DataVersion": 4903
+}

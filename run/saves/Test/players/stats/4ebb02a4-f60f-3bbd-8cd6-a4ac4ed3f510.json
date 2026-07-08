@@ -1,0 +1,17 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 380,
+      "minecraft:walk_one_cm": 602,
+      "minecraft:total_world_time": 835,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 380,
+      "minecraft:time_since_death": 380
+    },
+    "minecraft:used": {
+      "minecraft:redstone_torch": 1,
+      "minecraft:creeper_spawn_egg": 1
+    }
+  },
+  "DataVersion": 4903
+}

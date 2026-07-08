@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "tfsextras:mob_pusher_fan": 1,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 1673,
+      "minecraft:walk_one_cm": 249,
+      "minecraft:total_world_time": 2041,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 1673,
+      "minecraft:time_since_death": 1673
+    }
+  },
+  "DataVersion": 4903
+}

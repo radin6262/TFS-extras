@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "tfsextras",
+  "version": "${version}",
+  "name": "TFS-extras",
+  "description": "a mod made for the TFS(a mc server) but you can use it anywhere",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/tfsextras/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "radin.mcmods.tfs.extras.tfsExtras.TfsExtras"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

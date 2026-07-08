@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:creeper_spawn_egg": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1267,
+      "minecraft:walk_one_cm": 5411,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 223,
+      "minecraft:play_time": 1267,
+      "minecraft:damage_dealt": 10,
+      "minecraft:jump": 14,
+      "minecraft:time_since_death": 1267,
+      "minecraft:sprint_one_cm": 3079,
+      "minecraft:fall_one_cm": 749,
+      "minecraft:total_world_time": 1278,
+      "minecraft:fly_one_cm": 1989,
+      "minecraft:crouch_one_cm": 99,
+      "minecraft:sneak_time": 32
+    },
+    "minecraft:picked_up": {
+      "minecraft:leaf_litter": 8,
+      "minecraft:dirt": 16,
+      "minecraft:birch_log": 1
+    }
+  },
+  "DataVersion": 4903
+}

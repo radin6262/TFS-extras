@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "tfsextras:mob_pusher_fan": 1,
+      "minecraft:diamond_pickaxe": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 536,
+      "minecraft:time_since_rest": 442,
+      "minecraft:walk_one_cm": 608,
+      "minecraft:total_world_time": 1181,
+      "minecraft:leave_game": 1,
+      "minecraft:crouch_one_cm": 26,
+      "minecraft:sneak_time": 10,
+      "minecraft:play_time": 442,
+      "minecraft:jump": 3,
+      "minecraft:time_since_death": 442
+    }
+  },
+  "DataVersion": 4903
+}

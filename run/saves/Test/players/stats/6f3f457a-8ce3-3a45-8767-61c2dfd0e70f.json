@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:gunpowder": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 1253,
+      "minecraft:time_since_rest": 1173,
+      "minecraft:fall_one_cm": 213,
+      "minecraft:walk_one_cm": 1802,
+      "minecraft:total_world_time": 1866,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 52,
+      "minecraft:play_time": 1173,
+      "minecraft:jump": 3,
+      "minecraft:time_since_death": 1173
+    },
+    "minecraft:used": {
+      "tfsextras:mob_pusher_fan": 2,
+      "minecraft:diamond_pickaxe": 1
+    }
+  },
+  "DataVersion": 4903
+}
