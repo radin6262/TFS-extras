@@ -18,7 +18,7 @@ src/main/resources/
 {
   "replace": false,
   "values": [
-    "<modid>:<swordname>"
+    "(modid):(swordname)"
   ]
 }
 </pre>
