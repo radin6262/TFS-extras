@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "M": "tfsextras:mythril_ingot",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "tfsextras:mythril_pickaxe",
+    "count": 1
+  }
+}
